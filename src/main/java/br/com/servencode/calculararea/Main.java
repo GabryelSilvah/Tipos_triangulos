@@ -18,9 +18,7 @@ public class Main extends Valores{
             lado3 = ler.nextDouble();
             Valores.tipoTriangulo(lado1,lado2,lado3);
 
-
-
-
+            Valores.area(lado1,lado2,lado3);
     }
 
 }
