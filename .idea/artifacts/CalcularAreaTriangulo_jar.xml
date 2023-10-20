@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalcularAreaTriangulo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalcularAreaTriangulo_jar</output-path>
+    <root id="archive" name="CalcularAreaTriangulo.jar">
+      <element id="module-output" name="CalcularAreaTriangulo" />
+    </root>
+  </artifact>
+</component>
